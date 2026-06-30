@@ -1,0 +1,902 @@
+[
+  {
+    "id": "p001",
+    "slug": "chanel-no-5",
+    "brand": "香奈儿",
+    "name": "五号",
+    "originalName": "Chanel No. 5",
+    "family": "醛香花香调",
+    "gender": "女香",
+    "notes": {
+      "top": ["醛", "橙花", "依兰", "柠檬"],
+      "middle": ["鸢尾", "茉莉", "玫瑰", "铃兰"],
+      "base": ["檀香木", "香根草", "麝香", "香草"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["醛", "茉莉", "玫瑰", "檀香木"],
+    "styleTags": {
+      "seasons": ["四季", "夜晚"],
+      "occasions": ["正式", "聚会"],
+      "schools": ["商业经典"],
+      "olfactive": ["花香", "粉感", "皂感"],
+      "performance": ["有存在感", "留香久"]
+    },
+    "freeTags": ["复古", "端庄", "脂粉感"],
+    "oneLine": "一支带着醛香光泽的经典花束，规整、明亮，也有老派礼服的距离感。",
+    "visual": {
+      "palette": ["#f4efe5", "#e4c86f", "#d5a1a4", "#6c5b4c"],
+      "accent": "#b38a2f",
+      "texture": "petal"
+    }
+  },
+  {
+    "id": "p002",
+    "slug": "chanel-coco-mademoiselle",
+    "brand": "香奈儿",
+    "name": "可可小姐",
+    "originalName": "Chanel Coco Mademoiselle",
+    "family": "东方花香调",
+    "gender": "女香",
+    "notes": {
+      "top": ["橙子", "香柠檬", "柑橘"],
+      "middle": ["玫瑰", "茉莉", "依兰"],
+      "base": ["广藿香", "香根草", "香草", "白麝香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["广藿香", "玫瑰", "橙子", "香草"],
+    "styleTags": {
+      "seasons": ["春日", "秋冬", "四季"],
+      "occasions": ["通勤", "约会", "正式"],
+      "schools": ["商业经典", "东方调"],
+      "olfactive": ["花香", "甜感", "木质"],
+      "performance": ["明亮", "有存在感", "留香久"]
+    },
+    "freeTags": ["都市", "精致", "轻熟女"],
+    "oneLine": "柑橘、玫瑰和广藿香组成干练轮廓，甜度克制但存在感清楚。",
+    "visual": {
+      "palette": ["#f6d7c6", "#ff8f5a", "#d55c67", "#4f3a32"],
+      "accent": "#d86a4a",
+      "texture": "amber"
+    }
+  },
+  {
+    "id": "p003",
+    "slug": "chanel-bleu-de-chanel",
+    "brand": "香奈儿",
+    "name": "蔚蓝",
+    "originalName": "Bleu de Chanel",
+    "family": "木质馥奇调",
+    "gender": "男香",
+    "notes": {
+      "top": ["葡萄柚", "柠檬", "薄荷", "粉红胡椒"],
+      "middle": ["姜", "茉莉", "肉豆蔻"],
+      "base": ["焚香", "雪松", "檀香木", "广藿香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["葡萄柚", "焚香", "雪松", "姜"],
+    "styleTags": {
+      "seasons": ["四季", "夜晚"],
+      "occasions": ["通勤", "正式", "约会"],
+      "schools": ["商业经典", "馥奇"],
+      "olfactive": ["清新", "木质", "烟熏"],
+      "performance": ["有存在感", "留香久"]
+    },
+    "freeTags": ["商务", "冷感", "稳妥"],
+    "oneLine": "从清爽柑橘落到焚香木质，像一套剪裁利落的深色西装。",
+    "visual": {
+      "palette": ["#dbe8ee", "#5e8aa3", "#203945", "#12191d"],
+      "accent": "#3c728f",
+      "texture": "wood"
+    }
+  },
+  {
+    "id": "p004",
+    "slug": "dior-sauvage",
+    "brand": "迪奥",
+    "name": "旷野",
+    "originalName": "Dior Sauvage",
+    "family": "柑橘馥奇调",
+    "gender": "男香",
+    "notes": {
+      "top": ["香柠檬", "胡椒"],
+      "middle": ["薰衣草", "粉红胡椒", "广藿香", "香根草"],
+      "base": ["降龙涎香醚", "雪松", "劳丹脂"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["香柠檬", "胡椒", "薰衣草", "龙涎香"],
+    "styleTags": {
+      "seasons": ["四季", "夜晚"],
+      "occasions": ["通勤", "聚会", "约会"],
+      "schools": ["商业经典", "馥奇"],
+      "olfactive": ["清新", "辛辣", "木质"],
+      "performance": ["扩散强", "留香久", "有存在感"]
+    },
+    "freeTags": ["直给", "现代男香", "高辨识度"],
+    "oneLine": "明亮香柠檬和辛辣木质一起推进，干净直接，气场很外放。",
+    "visual": {
+      "palette": ["#d9e5e6", "#8aa5a9", "#546064", "#1b1c20"],
+      "accent": "#6d8d96",
+      "texture": "smoke"
+    }
+  },
+  {
+    "id": "p005",
+    "slug": "dior-jadore",
+    "brand": "迪奥",
+    "name": "真我",
+    "originalName": "Dior J'adore",
+    "family": "花香调",
+    "gender": "女香",
+    "notes": {
+      "top": ["梨", "甜瓜", "木兰", "桃子"],
+      "middle": ["茉莉", "玫瑰", "兰花", "铃兰"],
+      "base": ["麝香", "香草", "雪松"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["茉莉", "玫瑰", "梨", "麝香"],
+    "styleTags": {
+      "seasons": ["春日", "四季"],
+      "occasions": ["通勤", "正式", "约会"],
+      "schools": ["商业经典"],
+      "olfactive": ["花香", "果香", "干净"],
+      "performance": ["明亮", "柔和", "有存在感"]
+    },
+    "freeTags": ["金色花束", "优雅", "柔亮"],
+    "oneLine": "丰盈白花和成熟果香铺成金色花束，圆润、明快、很有仪式感。",
+    "visual": {
+      "palette": ["#fff4c7", "#e3b443", "#f4bbb7", "#816438"],
+      "accent": "#d6a02d",
+      "texture": "petal"
+    }
+  },
+  {
+    "id": "p006",
+    "slug": "dior-miss-dior-blooming-bouquet",
+    "brand": "迪奥",
+    "name": "花漾甜心",
+    "originalName": "Miss Dior Blooming Bouquet",
+    "family": "花果香调",
+    "gender": "女香",
+    "notes": {
+      "top": ["西西里柑橘"],
+      "middle": ["牡丹", "玫瑰", "桃子", "杏"],
+      "base": ["白麝香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["牡丹", "玫瑰", "桃子", "白麝香"],
+    "styleTags": {
+      "seasons": ["春日", "夏日"],
+      "occasions": ["通勤", "约会"],
+      "schools": ["商业经典"],
+      "olfactive": ["花香", "果香", "干净"],
+      "performance": ["轻盈", "柔和", "贴肤"]
+    },
+    "freeTags": ["少女感", "透明", "粉色花束"],
+    "oneLine": "牡丹和玫瑰被白麝香擦亮，轻柔得像刚展开的粉色花瓣。",
+    "visual": {
+      "palette": ["#fff7f6", "#f4c7d0", "#e98ba2", "#c56677"],
+      "accent": "#e58698",
+      "texture": "petal"
+    }
+  },
+  {
+    "id": "p007",
+    "slug": "ysl-libre",
+    "brand": "圣罗兰",
+    "name": "自由之水",
+    "originalName": "YSL Libre",
+    "family": "东方馥奇调",
+    "gender": "女香",
+    "notes": {
+      "top": ["薰衣草", "柑橘", "黑加仑"],
+      "middle": ["橙花", "茉莉"],
+      "base": ["香草", "龙涎香", "麝香", "雪松"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["薰衣草", "橙花", "香草", "龙涎香"],
+    "styleTags": {
+      "seasons": ["秋冬", "夜晚", "四季"],
+      "occasions": ["正式", "聚会", "约会"],
+      "schools": ["商业经典", "东方调", "馥奇"],
+      "olfactive": ["花香", "甜感", "辛辣"],
+      "performance": ["扩散强", "留香久", "有存在感"]
+    },
+    "freeTags": ["大女主", "张扬", "暖甜"],
+    "oneLine": "薰衣草的冷感和橙花香草的暖甜对撞，线条大胆而华丽。",
+    "visual": {
+      "palette": ["#f5dfc9", "#d7884b", "#8d4b37", "#2d2020"],
+      "accent": "#c5743d",
+      "texture": "amber"
+    }
+  },
+  {
+    "id": "p008",
+    "slug": "ysl-black-opium",
+    "brand": "圣罗兰",
+    "name": "黑鸦片",
+    "originalName": "YSL Black Opium",
+    "family": "东方香草调",
+    "gender": "女香",
+    "notes": {
+      "top": ["粉红胡椒", "梨", "橙花"],
+      "middle": ["咖啡", "茉莉", "杏仁"],
+      "base": ["香草", "广藿香", "雪松", "克什米尔木"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["咖啡", "香草", "梨", "广藿香"],
+    "styleTags": {
+      "seasons": ["秋冬", "夜晚"],
+      "occasions": ["约会", "聚会"],
+      "schools": ["商业经典", "美食调", "东方调"],
+      "olfactive": ["甜感", "奶感", "辛辣"],
+      "performance": ["有存在感", "留香久"]
+    },
+    "freeTags": ["甜酷", "夜店感", "咖啡甜点"],
+    "oneLine": "咖啡、香草和梨的甜暗面，像带一点闪粉的夜晚甜点。",
+    "visual": {
+      "palette": ["#f2c9b9", "#c56d73", "#5e3438", "#211819"],
+      "accent": "#a8565d",
+      "texture": "amber"
+    }
+  },
+  {
+    "id": "p009",
+    "slug": "gucci-bloom",
+    "brand": "古驰",
+    "name": "绽放",
+    "originalName": "Gucci Bloom",
+    "family": "白花调",
+    "gender": "女香",
+    "notes": {
+      "top": ["橙子", "绿叶"],
+      "middle": ["晚香玉", "茉莉", "忍冬"],
+      "base": ["鸢尾根", "檀香木", "香草"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["晚香玉", "茉莉", "忍冬", "绿叶"],
+    "styleTags": {
+      "seasons": ["春日", "夏日"],
+      "occasions": ["约会", "度假"],
+      "schools": ["商业经典", "白花"],
+      "olfactive": ["白花", "花香", "绿意"],
+      "performance": ["有存在感", "柔和"]
+    },
+    "freeTags": ["湿润花园", "复古白花", "自然感"],
+    "oneLine": "晚香玉和茉莉盛放得湿润丰沛，像走进一座白花温室。",
+    "visual": {
+      "palette": ["#f7eee7", "#e5aaa1", "#87a87a", "#31503b"],
+      "accent": "#8ba06d",
+      "texture": "green"
+    }
+  },
+  {
+    "id": "p010",
+    "slug": "jo-malone-english-pear-freesia",
+    "brand": "祖玛珑",
+    "name": "英国梨与小苍兰",
+    "originalName": "Jo Malone English Pear & Freesia",
+    "family": "花果香调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["梨", "甜瓜"],
+      "middle": ["小苍兰", "玫瑰"],
+      "base": ["广藿香", "琥珀", "麝香", "大黄"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["梨", "小苍兰", "玫瑰", "广藿香"],
+    "styleTags": {
+      "seasons": ["春日", "秋冬", "四季"],
+      "occasions": ["通勤", "约会"],
+      "schools": ["商业经典"],
+      "olfactive": ["果香", "花香", "清新"],
+      "performance": ["轻盈", "柔和"]
+    },
+    "freeTags": ["英式果园", "温柔", "清甜"],
+    "oneLine": "熟梨的清甜被小苍兰托住，轻柔、亲近，带一点秋日果园感。",
+    "visual": {
+      "palette": ["#f4ead7", "#d9b66f", "#c7d3a6", "#67794e"],
+      "accent": "#b89542",
+      "texture": "green"
+    }
+  },
+  {
+    "id": "p011",
+    "slug": "jo-malone-wood-sage-sea-salt",
+    "brand": "祖玛珑",
+    "name": "鼠尾草与海盐",
+    "originalName": "Jo Malone Wood Sage & Sea Salt",
+    "family": "水生调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["海盐", "葡萄柚"],
+      "middle": ["鼠尾草", "海藻"],
+      "base": ["黄葵籽", "麝香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["海盐", "鼠尾草", "葡萄柚", "麝香"],
+    "styleTags": {
+      "seasons": ["夏日", "雨天", "四季"],
+      "occasions": ["通勤", "度假", "睡前"],
+      "schools": ["沙龙香", "水生"],
+      "olfactive": ["清新", "木质", "干净"],
+      "performance": ["轻盈", "贴肤", "柔和"]
+    },
+    "freeTags": ["海风", "矿物感", "松弛"],
+    "oneLine": "咸湿海风遇到草本木质，清爽得不甜，也不刻意讨好。",
+    "visual": {
+      "palette": ["#eef4f1", "#9fb9b2", "#789183", "#4d5c52"],
+      "accent": "#6f8f8a",
+      "texture": "marine"
+    }
+  },
+  {
+    "id": "p012",
+    "slug": "jo-malone-wild-bluebell",
+    "brand": "祖玛珑",
+    "name": "蓝风铃",
+    "originalName": "Jo Malone Wild Bluebell",
+    "family": "绿叶调",
+    "gender": "女香",
+    "notes": {
+      "top": ["蓝风铃", "丁香", "铃兰"],
+      "middle": ["茉莉", "玫瑰果", "柿子"],
+      "base": ["白麝香", "龙涎香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["蓝风铃", "铃兰", "柿子", "白麝香"],
+    "styleTags": {
+      "seasons": ["春日", "夏日", "雨天"],
+      "occasions": ["通勤", "睡前", "约会"],
+      "schools": ["商业经典"],
+      "olfactive": ["清新", "绿意", "干净", "花香"],
+      "performance": ["轻盈", "贴肤", "柔和"]
+    },
+    "freeTags": ["透明花香", "水润", "少女感"],
+    "oneLine": "蓝色小花、绿叶和水润果感轻轻展开，像雨后干净的花茎。",
+    "visual": {
+      "palette": ["#eef4ff", "#9eb4dc", "#8eb69e", "#526f61"],
+      "accent": "#7892c7",
+      "texture": "green"
+    }
+  },
+  {
+    "id": "p013",
+    "slug": "diptyque-philosykos",
+    "brand": "蒂普提克",
+    "name": "希腊无花果",
+    "originalName": "Diptyque Philosykos",
+    "family": "绿叶调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["无花果叶", "无花果"],
+      "middle": ["椰子", "绿叶"],
+      "base": ["无花果树", "雪松", "木质香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["无花果", "无花果叶", "椰子", "雪松"],
+    "styleTags": {
+      "seasons": ["夏日", "春日"],
+      "occasions": ["度假", "通勤", "睡前"],
+      "schools": ["沙龙香"],
+      "olfactive": ["绿意", "果香", "奶感", "木质"],
+      "performance": ["柔和", "贴肤", "轻盈"]
+    },
+    "freeTags": ["树荫", "植物奶感", "地中海"],
+    "oneLine": "无花果叶、果肉和木头一起出现，绿而柔软，带一点椰奶般的阴凉。",
+    "visual": {
+      "palette": ["#eef1d4", "#a9bd75", "#637a45", "#4e3f2c"],
+      "accent": "#7c944d",
+      "texture": "green"
+    }
+  },
+  {
+    "id": "p014",
+    "slug": "diptyque-do-son",
+    "brand": "蒂普提克",
+    "name": "杜桑",
+    "originalName": "Diptyque Do Son",
+    "family": "白花调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["橙花", "玫瑰", "鸢尾"],
+      "middle": ["晚香玉", "粉红胡椒"],
+      "base": ["安息香", "麝香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["晚香玉", "橙花", "麝香", "粉红胡椒"],
+    "styleTags": {
+      "seasons": ["春日", "夏日", "夜晚"],
+      "occasions": ["约会", "度假", "睡前"],
+      "schools": ["沙龙香", "白花"],
+      "olfactive": ["白花", "花香", "奶感"],
+      "performance": ["柔和", "有存在感"]
+    },
+    "freeTags": ["海边白花", "柔雾", "东方记忆"],
+    "oneLine": "晚香玉被海风和麝香柔化，白花感明显，却不是尖锐的浓艳。",
+    "visual": {
+      "palette": ["#fff8ef", "#e8d4b7", "#f0b9ac", "#70817b"],
+      "accent": "#cfa287",
+      "texture": "petal"
+    }
+  },
+  {
+    "id": "p015",
+    "slug": "byredo-blanche",
+    "brand": "百瑞德",
+    "name": "白色浪漫",
+    "originalName": "Byredo Blanche",
+    "family": "醛香花香调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["醛", "粉红胡椒", "白玫瑰"],
+      "middle": ["橙花", "牡丹", "紫罗兰"],
+      "base": ["麝香", "檀香木", "木质香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["醛", "白玫瑰", "麝香", "檀香木"],
+    "styleTags": {
+      "seasons": ["四季", "雨天"],
+      "occasions": ["通勤", "睡前", "正式"],
+      "schools": ["沙龙香"],
+      "olfactive": ["干净", "皂感", "花香", "粉感"],
+      "performance": ["柔和", "贴肤"]
+    },
+    "freeTags": ["白衬衫", "洗衣感", "极简"],
+    "oneLine": "醛香、白玫瑰和麝香做出冷白洗净感，像晒干后的白衬衫。",
+    "visual": {
+      "palette": ["#ffffff", "#e8ebe8", "#d6d0c6", "#8d918f"],
+      "accent": "#9aa39f",
+      "texture": "petal"
+    }
+  },
+  {
+    "id": "p016",
+    "slug": "byredo-gypsy-water",
+    "brand": "百瑞德",
+    "name": "吉普赛之水",
+    "originalName": "Byredo Gypsy Water",
+    "family": "木质调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["香柠檬", "杜松子", "柠檬", "胡椒"],
+      "middle": ["焚香", "松针", "鸢尾根"],
+      "base": ["檀香木", "香草", "琥珀"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["杜松子", "焚香", "松针", "香草"],
+    "styleTags": {
+      "seasons": ["秋冬", "四季"],
+      "occasions": ["通勤", "度假", "睡前"],
+      "schools": ["沙龙香"],
+      "olfactive": ["木质", "烟熏", "甜感"],
+      "performance": ["柔和", "贴肤"]
+    },
+    "freeTags": ["篝火", "森林", "轻烟"],
+    "oneLine": "杜松、松针和淡淡焚香落在香草木头上，像远处有微弱篝火的森林。",
+    "visual": {
+      "palette": ["#edf0dc", "#98a36a", "#5b6642", "#3f3325"],
+      "accent": "#747d4c",
+      "texture": "smoke"
+    }
+  },
+  {
+    "id": "p017",
+    "slug": "le-labo-santal-33",
+    "brand": "勒莱柏",
+    "name": "檀香33",
+    "originalName": "Le Labo Santal 33",
+    "family": "木质调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["小豆蔻", "紫罗兰"],
+      "middle": ["鸢尾", "纸莎草", "皮革"],
+      "base": ["檀香木", "雪松", "龙涎香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["檀香木", "小豆蔻", "皮革", "雪松"],
+    "styleTags": {
+      "seasons": ["秋冬", "四季"],
+      "occasions": ["通勤", "正式", "约会"],
+      "schools": ["沙龙香"],
+      "olfactive": ["木质", "辛辣", "烟熏", "皮革"],
+      "performance": ["有存在感", "留香久"]
+    },
+    "freeTags": ["干燥木板", "城市小众", "中性"],
+    "oneLine": "干燥檀香、皮革和香料交织，粗粝里带着很现代的冷静。",
+    "visual": {
+      "palette": ["#eadcc6", "#b89467", "#715138", "#2f2822"],
+      "accent": "#9a7448",
+      "texture": "wood"
+    }
+  },
+  {
+    "id": "p018",
+    "slug": "le-labo-another-13",
+    "brand": "勒莱柏",
+    "name": "另一个13",
+    "originalName": "Le Labo Another 13",
+    "family": "琥珀调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["梨", "苹果", "柑橘"],
+      "middle": ["茉莉", "苔藓"],
+      "base": ["龙涎香", "麝香", "降龙涎香醚", "木质香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["龙涎香", "麝香", "梨", "木质香"],
+    "styleTags": {
+      "seasons": ["四季", "雨天"],
+      "occasions": ["通勤", "睡前", "约会"],
+      "schools": ["沙龙香"],
+      "olfactive": ["干净", "木质", "果香"],
+      "performance": ["贴肤", "留香久", "柔和"]
+    },
+    "freeTags": ["体香感", "冷白", "纸张"],
+    "oneLine": "麝香和龙涎香贴着皮肤发亮，干净、微甜，像体温里的透明纸张。",
+    "visual": {
+      "palette": ["#f3f3ec", "#d9d5c8", "#a9ada6", "#626862"],
+      "accent": "#8f9791",
+      "texture": "amber"
+    }
+  },
+  {
+    "id": "p019",
+    "slug": "mfk-baccarat-rouge-540",
+    "brand": "梅森·弗朗西斯·库尔吉安",
+    "name": "百家乐胭脂540",
+    "originalName": "Maison Francis Kurkdjian Baccarat Rouge 540",
+    "family": "东方花香调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["藏红花", "茉莉"],
+      "middle": ["琥珀木", "龙涎香"],
+      "base": ["冷杉树脂", "雪松"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["藏红花", "琥珀木", "龙涎香", "雪松"],
+    "styleTags": {
+      "seasons": ["秋冬", "夜晚"],
+      "occasions": ["正式", "聚会", "约会"],
+      "schools": ["沙龙香", "东方调"],
+      "olfactive": ["甜感", "辛辣", "木质"],
+      "performance": ["扩散强", "留香久", "有存在感"]
+    },
+    "freeTags": ["糖霜琥珀", "通透甜感", "高辨识度"],
+    "oneLine": "藏红花、琥珀木和透明甜感交叠，轻盈却有极高辨识度。",
+    "visual": {
+      "palette": ["#fff0e6", "#e89475", "#c2463f", "#694040"],
+      "accent": "#d05c4f",
+      "texture": "amber"
+    }
+  },
+  {
+    "id": "p020",
+    "slug": "tom-ford-oud-wood",
+    "brand": "汤姆·福特",
+    "name": "乌木沉香",
+    "originalName": "Tom Ford Oud Wood",
+    "family": "东方木质调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["玫瑰木", "小豆蔻", "胡椒"],
+      "middle": ["沉香木", "檀香木", "香根草"],
+      "base": ["零陵香豆", "香草", "琥珀"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["沉香木", "檀香木", "小豆蔻", "香草"],
+    "styleTags": {
+      "seasons": ["秋冬", "夜晚"],
+      "occasions": ["正式", "约会"],
+      "schools": ["沙龙香", "东方调"],
+      "olfactive": ["木质", "辛辣", "甜感"],
+      "performance": ["有存在感", "留香久"]
+    },
+    "freeTags": ["暗色木头", "高级感", "温热"],
+    "oneLine": "沉香被香料和柔软香草包住，深色、温润，比想象中更易亲近。",
+    "visual": {
+      "palette": ["#e5d5bf", "#9a7350", "#55392b", "#221916"],
+      "accent": "#8c5f3d",
+      "texture": "wood"
+    }
+  },
+  {
+    "id": "p021",
+    "slug": "tom-ford-neroli-portofino",
+    "brand": "汤姆·福特",
+    "name": "橙花油港湾",
+    "originalName": "Tom Ford Neroli Portofino",
+    "family": "柑橘馥奇调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["香柠檬", "柑橘", "柠檬", "薰衣草"],
+      "middle": ["橙花", "橙花油", "茉莉"],
+      "base": ["琥珀", "麝香", "当归"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["橙花油", "香柠檬", "柠檬", "麝香"],
+    "styleTags": {
+      "seasons": ["夏日", "春日"],
+      "occasions": ["度假", "通勤"],
+      "schools": ["沙龙香", "馥奇"],
+      "olfactive": ["清新", "干净", "花香"],
+      "performance": ["明亮", "轻盈"]
+    },
+    "freeTags": ["地中海", "皂感柑橘", "度假白衬衫"],
+    "oneLine": "柑橘和橙花油像海边白衬衫，清亮、干净，带一点皂感。",
+    "visual": {
+      "palette": ["#f6f8df", "#f5c766", "#80b8b0", "#2e8a8a"],
+      "accent": "#2f9a97",
+      "texture": "citrus"
+    }
+  },
+  {
+    "id": "p022",
+    "slug": "tom-ford-tobacco-vanille",
+    "brand": "汤姆·福特",
+    "name": "烟草香草",
+    "originalName": "Tom Ford Tobacco Vanille",
+    "family": "东方香草调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["烟草叶", "辛香料"],
+      "middle": ["香草", "可可", "零陵香豆", "烟草花"],
+      "base": ["干果", "木质香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["烟草", "香草", "可可", "干果"],
+    "styleTags": {
+      "seasons": ["秋冬", "夜晚"],
+      "occasions": ["约会", "聚会"],
+      "schools": ["沙龙香", "美食调", "东方调"],
+      "olfactive": ["甜感", "烟熏", "辛辣", "奶感"],
+      "performance": ["扩散强", "留香久", "有存在感"]
+    },
+    "freeTags": ["雪茄盒", "甜暖", "节日感"],
+    "oneLine": "烟草叶、香草和可可堆出厚实暖甜感，像打开一只深色雪茄盒。",
+    "visual": {
+      "palette": ["#ead2b2", "#b57542", "#673d25", "#251914"],
+      "accent": "#9d6136",
+      "texture": "smoke"
+    }
+  },
+  {
+    "id": "p023",
+    "slug": "hermes-terre-dhermes",
+    "brand": "爱马仕",
+    "name": "大地",
+    "originalName": "Terre d'Hermes",
+    "family": "木质馥奇调",
+    "gender": "男香",
+    "notes": {
+      "top": ["橙子", "葡萄柚"],
+      "middle": ["胡椒", "天竺葵", "燧石"],
+      "base": ["香根草", "雪松", "广藿香", "安息香"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["葡萄柚", "香根草", "胡椒", "燧石"],
+    "styleTags": {
+      "seasons": ["秋冬", "四季"],
+      "occasions": ["通勤", "正式"],
+      "schools": ["商业经典", "馥奇"],
+      "olfactive": ["木质", "辛辣", "清新"],
+      "performance": ["有存在感", "留香久"]
+    },
+    "freeTags": ["矿物感", "成熟", "干燥土壤"],
+    "oneLine": "苦橙、胡椒和香根草带出干燥矿物感，沉稳但不沉闷。",
+    "visual": {
+      "palette": ["#efd1a5", "#c3783f", "#744b2e", "#3f3f32"],
+      "accent": "#b56d34",
+      "texture": "wood"
+    }
+  },
+  {
+    "id": "p024",
+    "slug": "hermes-un-jardin-sur-le-nil",
+    "brand": "爱马仕",
+    "name": "尼罗河花园",
+    "originalName": "Un Jardin sur le Nil",
+    "family": "绿叶调",
+    "gender": "中性香",
+    "notes": {
+      "top": ["青芒果", "葡萄柚", "番茄叶", "胡萝卜"],
+      "middle": ["莲花", "风信子", "橙子"],
+      "base": ["无花果树", "乳香", "鸢尾", "肉桂"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["青芒果", "葡萄柚", "莲花", "无花果树"],
+    "styleTags": {
+      "seasons": ["夏日", "春日", "雨天"],
+      "occasions": ["通勤", "度假"],
+      "schools": ["商业经典"],
+      "olfactive": ["绿意", "果香", "清新"],
+      "performance": ["明亮", "轻盈"]
+    },
+    "freeTags": ["青芒果", "水边植物", "清苦"],
+    "oneLine": "青芒果和葡萄柚带出清苦水绿感，像潮湿河岸边的植物气息。",
+    "visual": {
+      "palette": ["#ecf2c8", "#b7c85d", "#61994d", "#3f6d6b"],
+      "accent": "#7fac43",
+      "texture": "green"
+    }
+  },
+  {
+    "id": "p025",
+    "slug": "guerlain-shalimar",
+    "brand": "娇兰",
+    "name": "一千零一夜",
+    "originalName": "Guerlain Shalimar",
+    "family": "东方香草调",
+    "gender": "女香",
+    "notes": {
+      "top": ["柠檬", "香柠檬", "橙子"],
+      "middle": ["鸢尾", "茉莉", "玫瑰", "广藿香"],
+      "base": ["香草", "焚香", "皮革", "零陵香豆"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["香草", "焚香", "鸢尾", "皮革"],
+    "styleTags": {
+      "seasons": ["秋冬", "夜晚"],
+      "occasions": ["正式", "约会"],
+      "schools": ["商业经典", "东方调"],
+      "olfactive": ["甜感", "粉感", "烟熏", "皮革"],
+      "performance": ["留香久", "有存在感"]
+    },
+    "freeTags": ["复古东方", "脂粉香草", "华丽"],
+    "oneLine": "柑橘开场后落入香草、焚香和皮革，复古而华丽，甜得很有年代感。",
+    "visual": {
+      "palette": ["#f1d7a8", "#bc7a3c", "#6b3f2f", "#272020"],
+      "accent": "#aa6330",
+      "texture": "amber"
+    }
+  },
+  {
+    "id": "p026",
+    "slug": "lancome-la-vie-est-belle",
+    "brand": "兰蔻",
+    "name": "美丽人生",
+    "originalName": "Lancome La Vie Est Belle",
+    "family": "东方花香调",
+    "gender": "女香",
+    "notes": {
+      "top": ["黑加仑", "梨"],
+      "middle": ["鸢尾", "茉莉", "橙花"],
+      "base": ["广藿香", "零陵香豆", "香草", "果仁糖"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["鸢尾", "梨", "香草", "果仁糖"],
+    "styleTags": {
+      "seasons": ["秋冬", "夜晚"],
+      "occasions": ["约会", "聚会"],
+      "schools": ["商业经典", "美食调"],
+      "olfactive": ["甜感", "粉感", "果香"],
+      "performance": ["扩散强", "留香久", "有存在感"]
+    },
+    "freeTags": ["甜美", "果仁糖", "浓郁"],
+    "oneLine": "梨、鸢尾和果仁糖堆出明亮甜香，亲和却很饱满。",
+    "visual": {
+      "palette": ["#ffe9e7", "#f0a1a6", "#c76078", "#6a3e53"],
+      "accent": "#d96f82",
+      "texture": "amber"
+    }
+  },
+  {
+    "id": "p027",
+    "slug": "marc-jacobs-daisy",
+    "brand": "马克·雅可布",
+    "name": "雏菊",
+    "originalName": "Marc Jacobs Daisy",
+    "family": "花果香调",
+    "gender": "女香",
+    "notes": {
+      "top": ["紫罗兰叶", "草莓", "葡萄柚"],
+      "middle": ["栀子花", "紫罗兰", "茉莉"],
+      "base": ["麝香", "白木", "香草"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["紫罗兰叶", "草莓", "栀子花", "麝香"],
+    "styleTags": {
+      "seasons": ["春日", "夏日"],
+      "occasions": ["通勤", "约会"],
+      "schools": ["商业经典"],
+      "olfactive": ["花香", "果香", "清新"],
+      "performance": ["轻盈", "柔和"]
+    },
+    "freeTags": ["校园感", "清甜", "明亮"],
+    "oneLine": "草莓和紫罗兰叶带出清甜绿意，轻快得像阳光里的雏菊。",
+    "visual": {
+      "palette": ["#fff5c8", "#f2d15d", "#a8c982", "#fffdf0"],
+      "accent": "#dfbe3e",
+      "texture": "petal"
+    }
+  },
+  {
+    "id": "p028",
+    "slug": "bvlgari-pour-homme",
+    "brand": "宝格丽",
+    "name": "大吉岭茶",
+    "originalName": "Bvlgari Pour Homme",
+    "family": "木质花香调",
+    "gender": "男香",
+    "notes": {
+      "top": ["大吉岭茶", "香柠檬", "橙花"],
+      "middle": ["豆蔻", "胡椒", "愈创木"],
+      "base": ["麝香", "琥珀", "雪松", "零陵香豆"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["大吉岭茶", "香柠檬", "豆蔻", "麝香"],
+    "styleTags": {
+      "seasons": ["春日", "夏日", "四季"],
+      "occasions": ["通勤", "正式", "睡前"],
+      "schools": ["商业经典"],
+      "olfactive": ["茶感", "干净", "木质"],
+      "performance": ["柔和", "贴肤"]
+    },
+    "freeTags": ["温柔男香", "茶香", "白衬衫"],
+    "oneLine": "茶香、柑橘和轻木质干净温和，是不压人的日常安全牌。",
+    "visual": {
+      "palette": ["#eef1dd", "#bbc58b", "#7f8e66", "#5e5f50"],
+      "accent": "#8d9f6c",
+      "texture": "green"
+    }
+  },
+  {
+    "id": "p029",
+    "slug": "creed-aventus",
+    "brand": "信仰",
+    "name": "拿破仑之水",
+    "originalName": "Creed Aventus",
+    "family": "果香馥奇调",
+    "gender": "男香",
+    "notes": {
+      "top": ["菠萝", "香柠檬", "黑加仑", "苹果"],
+      "middle": ["桦木", "广藿香", "茉莉", "玫瑰"],
+      "base": ["麝香", "橡木苔", "龙涎香", "香草"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["菠萝", "桦木", "麝香", "黑加仑"],
+    "styleTags": {
+      "seasons": ["四季", "夜晚"],
+      "occasions": ["正式", "聚会", "约会"],
+      "schools": ["沙龙香", "馥奇"],
+      "olfactive": ["果香", "烟熏", "木质"],
+      "performance": ["有存在感", "留香久"]
+    },
+    "freeTags": ["菠萝烟熏", "成功感", "标志性男香"],
+    "oneLine": "菠萝果香遇到桦木烟感，明亮又带野心，是很有辨识度的男香图腾。",
+    "visual": {
+      "palette": ["#f4d56a", "#6b8c55", "#3f4a3c", "#1e1e1c"],
+      "accent": "#bb9b32",
+      "texture": "smoke"
+    }
+  },
+  {
+    "id": "p030",
+    "slug": "narciso-rodriguez-for-her",
+    "brand": "纳西索·罗德里格斯",
+    "name": "她",
+    "originalName": "Narciso Rodriguez For Her",
+    "family": "木质花香调",
+    "gender": "女香",
+    "notes": {
+      "top": ["橙花", "桂花", "香柠檬"],
+      "middle": ["麝香", "琥珀"],
+      "base": ["广藿香", "香草", "香根草"]
+    },
+    "nosetimeRating": "待补充",
+    "mainIngredients": ["麝香", "桂花", "橙花", "广藿香"],
+    "styleTags": {
+      "seasons": ["四季", "秋冬"],
+      "occasions": ["约会", "通勤", "正式"],
+      "schools": ["商业经典"],
+      "olfactive": ["麝香", "花香", "粉感", "木质"],
+      "performance": ["贴肤", "留香久", "柔和"]
+    },
+    "freeTags": ["体香感", "柔软", "干净性感"],
+    "oneLine": "柔软麝香裹住桂花和木质，贴肤、干净，又带一点安静的性感。",
+    "visual": {
+      "palette": ["#f6d0cd", "#d99591", "#b86f72", "#5f4648"],
+      "accent": "#bf7778",
+      "texture": "petal"
+    }
+  }
+]
